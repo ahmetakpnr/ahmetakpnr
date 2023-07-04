@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ahmetakpnr
 - 👀 I’m interested in java programming.
 - 🌱 I’m currently learning java and python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me an email.
+- 📫 You can reach me at aakpinar226@gmail.com e-mail address.
 
 <!---
 ahmetakpnr/ahmetakpnr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
